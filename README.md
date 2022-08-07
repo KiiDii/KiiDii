@@ -2,38 +2,9 @@
 I'm a Node.JS DevOps Engineer!
 
 #### Technologies & Services that I use:
-[![image NodeJS]][webSite NodeJS]
-[![image TypeScript]][webSite TypeScript]
-[![image Fastify]][webSite Fastify]
-[![image Socket.io]][webSite Socket.io]
-[![image Apollo-GraphQL]][webSite Apollo-GraphQL]
-[![image Electron.js]][webSite Electron.js]
-[![image MongoDB]][webSite MongoDB]
-[![image Postgres]][webSite Postgres]
-[![image Prisma]][webSite Prisma]
-[![image Jest]][webSite Jest]
-[![image Babel]][webSite Babel]
-[![image Webpack]][webSite Webpack]
-[![image JavaScript]][webSite JavaScript]
-[![image HTML5]][webSite HTML5]
-[![image CSS3]][webSite CSS3]
-[![image Markdown]][webSite Markdown]
-[![image Docker]][webSite Docker]
-[![image ESLint]][webSite ESLint]
-[![image Serverless]][webSite Serverless]
-[![image AWS]][webSite AWS]
-[![image Google Cloud]][webSite Google Cloud]
-[![image GitHub Actions]][webSite GitHub Actions]
-[![image Arduino]][webSite Arduino]
-[![image Swagger]][webSite Swagger]
-[![image Postman]][webSite Postman]
-[![image Jira]][webSite Jira]
-
-And many other technologies...
-
-#### You can find me here:
-[![image Discord]][webSite Discord]
-[![image Telegram]][webSite Telegram]
+<!-- I could additionally use links to real resources as well. -->
+<!-- But in this case the code would look bad! -->
+![image-node-js] ![image-type-script] ![image-socket-io] ![image-apollo-graphql] ![image-fastify] ![image-electron] ![image-puppeteer] ![image-eslint] ![image-jwt] ![image-docker] ![image-babel] ![image-webpack] ![image-serverless] ![image-google-cloud] ![image-amazon-aws] ![image-amazon-dynamo-db] ![image-mongo-db] ![image-amazon-rds] ![image-postgre-sql] ![image-prisma] ![image-pm2] ![image-npm] ![image-github-actions] ![image-jest] ![image-swagger] ![image-lodash] ![image-handlebars] ![image-nunjucks] ![image-html-5] ![image-css-3] ![image-markdown] ![image-jira] ![image-figma] ![image-arduino]
 
 <!--
 TODO
@@ -42,62 +13,37 @@ TODO
 -->
 
 <!-- attached links -->
-[image AWS]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-[image CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[image Jest]: https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white
-[image Jira]: https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white
-[image Babel]: https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black
-[image HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[image Prisma]: https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
-[image NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-[image ESLint]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
-[image Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-[image TikTok]: https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white
-[image Discord]: https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white
-[image Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-[image Webpack]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black
-[image Fastify]: https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white
-[image MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[image Swagger]: https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white
-[image Arduino]: https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
-[image Markdown]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
-[image Telegram]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-[image Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[image Socket.io]: https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101
-[image TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
-[image Serverless]: https://img.shields.io/badge/Serverless-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-[image JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[image Electron.js]: https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white
-[image Google Cloud]: https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
-[image GitHub Actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
-[image Apollo-GraphQL]: https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql
-
-[webSite AWS]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-[webSite CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[webSite Jest]: https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white
-[webSite Jira]: https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white
-[webSite Babel]: https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black
-[webSite HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[webSite Prisma]: https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
-[webSite NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-[webSite ESLint]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
-[webSite Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-[webSite TikTok]: https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white
-[webSite Discord]: https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white
-[webSite Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-[webSite Webpack]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black
-[webSite Fastify]: https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white
-[webSite MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[webSite Swagger]: https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white
-[webSite Arduino]: https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
-[webSite Markdown]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
-[webSite Telegram]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-[webSite Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[webSite Socket.io]: https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101
-[webSite TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
-[webSite Serverless]: https://img.shields.io/badge/Serverless-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-[webSite JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[webSite Electron.js]: https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white
-[webSite Google Cloud]: https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
-[webSite GitHub Actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
-[webSite Apollo-GraphQL]: https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql
+[image-pm2]:              https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white
+[image-npm]:              https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+[image-jwt]:              https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jwt&logoColor=white
+[image-jest]:             https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+[image-jira]:             https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
+[image-babel]:            https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black
+[image-css-3]:            https://img.shields.io/badge/css%203-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[image-prisma]:           https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
+[image-docker]:           https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[image-eslint]:           https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white
+[image-lodash]:           https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white
+[image-html-5]:           https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[image-node-js]:          https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+[image-fastify]:          https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white
+[image-swagger]:          https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black
+[image-webpack]:          https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black
+[image-arduino]:          https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white
+[image-electron]:         https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white
+[image-markdown]:         https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+[image-nunjucks]:         https://img.shields.io/badge/nunjucks-1C4913?style=for-the-badge&logo=nunjucks&logoColor=white
+[image-mongo-db]:         https://img.shields.io/badge/mongo%20db-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+[image-socket-io]:        https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white
+[image-puppeteer]:        https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white
+[image-serverless]:       https://img.shields.io/badge/serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white
+[image-amazon-aws]:       https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[image-amazon-rds]:       https://img.shields.io/badge/amazon%20rds-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white
+[image-handlebars]:       https://img.shields.io/badge/handlebars-000000?style=for-the-badge&logo=handlebars.js&logoColor=white
+[image-type-script]:      https://img.shields.io/badge/typeScript%20-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white
+[image-postgre-sql]:      https://img.shields.io/badge/postgre%20sql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+[image-google-cloud]:     https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[image-github-actions]:   https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+[image-apollo-graphql]:   https://img.shields.io/badge/apollo%20graphql-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white
+[image-amazon-dynamo-db]: https://img.shields.io/badge/amazon%20dynamo%20db-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white
+[image-figma]:            https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
