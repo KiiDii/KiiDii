@@ -14,7 +14,7 @@ TODO
 <!-- attached links -->
 [image-pm2]:              https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white
 [image-npm]:              https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
-[image-jwt]:              https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jwt&logoColor=white
+[image-jwt]:              https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=json%20web%20tokens
 [image-jest]:             https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
 [image-jira]:             https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
 [image-babel]:            https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black
