@@ -3,7 +3,7 @@
 #### Technologies & Services that I use:
 <!-- I could additionally use links to real resources as well. -->
 <!-- But in this case the code would look bad! -->
-![image-node-js] ![image-type-script] ![image-socket-io] ![image-apollo-graphql] ![image-fastify] ![image-electron] ![image-puppeteer] ![image-eslint] ![image-jwt] ![image-docker] ![image-babel] ![image-webpack] ![image-serverless] ![image-google-cloud] ![image-amazon-aws] ![image-amazon-dynamo-db] ![image-mongo-db] ![image-amazon-rds] ![image-postgre-sql] ![image-prisma] ![image-pm2] ![image-npm] ![image-github-actions] ![image-jest] ![image-swagger] ![image-lodash] ![image-handlebars] ![image-nunjucks] ![image-html-5] ![image-css-3] ![image-markdown] ![image-jira] ![image-figma] ![image-arduino]
+![image-node-js] ![image-es2022] ![image-type-script] ![image-socket-io] ![image-apollo-graphql] ![image-fastify] ![image-electron] ![image-puppeteer] ![image-eslint] ![image-jwt] ![image-docker] ![image-babel] ![image-webpack] ![image-serverless] ![image-google-cloud] ![image-amazon-aws] ![image-amazon-dynamo-db] ![image-mongo-db] ![image-amazon-rds] ![image-postgre-sql] ![image-prisma] ![image-pm2] ![image-npm] ![image-github-actions] ![image-jest] ![image-swagger] ![image-lodash] ![image-handlebars] ![image-nunjucks] ![image-html-5] ![image-css-3] ![image-markdown] ![image-jira] ![image-figma] ![image-arduino]
 
 <!--
 TODO
@@ -24,6 +24,7 @@ TODO
 [image-eslint]:           https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white
 [image-lodash]:           https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white
 [image-html-5]:           https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[image-es2022]:           https://img.shields.io/badge/es2022-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [image-node-js]:          https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 [image-fastify]:          https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white
 [image-swagger]:          https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black
