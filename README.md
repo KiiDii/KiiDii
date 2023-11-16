@@ -2,9 +2,6 @@
 
 #### Technologies & Services that I use:
 
-<!-- I could additionally use links to real resources as well. -->
-<!-- But in this case the code would look bad! -->
-
 [![image-node-js]][web-node-js] [![image-es2022]][web-es2022] [![image-type-script]][web-type-script] 
 [![image-socket-io]][web-socket-io] [![image-apollo-graphql]][web-apollo-graphql] 
 [![image-fastify]][web-fastify] [![image-electron]][web-electron] [![image-puppeteer]][web-puppeteer] 
@@ -20,8 +17,12 @@
 [![image-figma]][web-figma] [![image-arduino]][web-arduino]
 
 <section>
-  <img src="https://myreadme.vercel.app/api/embed/kiidii?panels=userstatistics,commitgraph&height=100" style="height:190px" alt="GitHub stats">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=kiidii" style="height:190px" alt="LeetCode stats">
+  <a href="https://github.com/kiidii">
+    <img src="https://myreadme.vercel.app/api/embed/kiidii?panels=userstatistics,commitgraph&height=100" style="height:190px" alt="GitHub stats">
+  </a>
+  <a href="https://leetcode.com/kiidii/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=kiidii" style="height:190px" alt="LeetCode stats">
+  </a>
 </section>
 
 ## You can find me on:
