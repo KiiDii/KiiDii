@@ -12,6 +12,15 @@
   <img src="https://leetcode-stats-six.vercel.app/api?username=kiidii" style="height:190px" alt="LeetCode stats">
 </section>
 
+## You can find me on:
+
+[![image-steam]][web-steam]
+[![image-discord]][web-discord]
+[![image-telegram]][web-telegram]
+[![image-youtube]][web-youtube]
+[![image-tiktok]][web-tiktok]
+[![image-npm]][web-npm]
+
 <!-- attached links -->
 
 [image-pm2]: https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white&logoWidth=13
@@ -49,3 +58,16 @@
 [image-apollo-graphql]: https://img.shields.io/badge/apollo%20graphql-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white
 [image-amazon-dynamo-db]: https://img.shields.io/badge/amazon%20dynamo%20db-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white&logoWidth=36
 [image-figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[image-steam]: https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white&logoWidth=13
+[image-discord]: https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=13
+[image-telegram]: https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=13
+[image-youtube]: https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=13
+[image-tiktok]: https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white&logoWidth=13
+[image-psn]: https://img.shields.io/badge/psn-003791?style=for-the-badge&logo=playstation&logoColor=white&logoWidth=13
+
+[web-steam]: https://steamcommunity.com/id/aim-vadym/
+[web-discord]: http://discord.gg/ADFYZtJ
+[web-telegram]: https://t.me/kiidii_aniname
+[web-youtube]: https://www.youtube.com/channel/UC5aisLyTGVQSH92fYgSOFhQ
+[web-tiktok]: https://www.tiktok.com/@kii.dii
+[web-npm]: https://www.npmjs.com/~kiidii
