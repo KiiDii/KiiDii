@@ -5,7 +5,19 @@
 <!-- I could additionally use links to real resources as well. -->
 <!-- But in this case the code would look bad! -->
 
-![image-node-js] ![image-es2022] ![image-type-script] ![image-socket-io] ![image-apollo-graphql] ![image-fastify] ![image-electron] ![image-puppeteer] ![image-eslint] ![image-jwt] ![image-docker] ![image-babel] ![image-webpack] ![image-serverless] ![image-google-cloud] ![image-amazon-aws] ![image-amazon-dynamo-db] ![image-mongo-db] ![image-amazon-rds] ![image-postgre-sql] ![image-prisma] ![image-pm2] ![image-npm] ![image-github-actions] ![image-jest] ![image-swagger] ![image-lodash] ![image-handlebars] ![image-nunjucks] ![image-html-5] ![image-css-3] ![image-markdown] ![image-jira] ![image-figma] ![image-arduino]
+[![image-node-js]][web-node-js] [![image-es2022]][web-es2022] [![image-type-script]][web-type-script] 
+[![image-socket-io]][web-socket-io] [![image-apollo-graphql]][web-apollo-graphql] 
+[![image-fastify]][web-fastify] [![image-electron]][web-electron] [![image-puppeteer]][web-puppeteer] 
+[![image-eslint]][web-eslint] [![image-jwt]][web-jwt] [![image-docker]][web-docker] 
+[![image-babel]][web-babel] [![image-webpack]][web-webpack] [![image-serverless]][web-serverless] 
+[![image-google-cloud]][web-google-cloud] [![image-amazon-aws]][web-amazon-aws] 
+[![image-amazon-dynamo-db]][web-amazon-dynamo-db] [![image-mongo-db]][web-mongo-db] 
+[![image-amazon-rds]][web-amazon-rds] [![image-postgre-sql]][web-postgre-sql] [![image-prisma]][web-prisma] 
+[![image-pm2]][web-pm2] [![image-npm]][web-npm] [![image-github-actions]][web-github-actions] 
+[![image-jest]][web-jest] [![image-swagger]][web-swagger] [![image-lodash]][web-lodash] 
+[![image-handlebars]][web-handlebars] [![image-nunjucks]][web-nunjucks] [![image-html-5]][web-html-5] 
+[![image-css-3]][web-css-3] [![image-markdown]][web-markdown] [![image-jira]][web-jira] 
+[![image-figma]][web-figma] [![image-arduino]][web-arduino]
 
 <section>
   <img src="https://myreadme.vercel.app/api/embed/kiidii?panels=userstatistics,commitgraph&height=100" style="height:190px" alt="GitHub stats">
@@ -70,3 +82,39 @@
 [web-youtube]: https://www.youtube.com/channel/UC5aisLyTGVQSH92fYgSOFhQ
 [web-tiktok]: https://www.tiktok.com/@kii.dii
 [web-npm]: https://www.npmjs.com/~kiidii
+
+[web-node-js]: https://nodejs.org/
+[web-es2022]: https://www.ecma-international.org/
+[web-type-script]: https://www.typescriptlang.org/
+[web-socket-io]: https://socket.io/
+[web-apollo-graphql]: https://www.apollographql.com/
+[web-fastify]: https://www.fastify.io/
+[web-electron]: https://www.electronjs.org/
+[web-puppeteer]: https://pptr.dev/
+[web-eslint]: https://eslint.org/
+[web-jwt]: https://jwt.io/
+[web-docker]: https://www.docker.com/
+[web-babel]: https://babeljs.io/
+[web-webpack]: https://webpack.js.org/
+[web-serverless]: https://www.serverless.com/
+[web-google-cloud]: https://cloud.google.com/
+[web-amazon-aws]: https://aws.amazon.com/
+[web-amazon-dynamo-db]: https://aws.amazon.com/dynamodb/
+[web-mongo-db]: https://www.mongodb.com/
+[web-amazon-rds]: https://aws.amazon.com/rds/
+[web-postgre-sql]: https://www.postgresql.org/
+[web-prisma]: https://www.prisma.io/
+[web-pm2]: https://pm2.io/
+[web-npm]: https://www.npmjs.com/
+[web-github-actions]: https://github.com/features/actions
+[web-jest]: https://jestjs.io/
+[web-swagger]: https://swagger.io/
+[web-lodash]: https://lodash.com/
+[web-handlebars]: https://handlebarsjs.com/
+[web-nunjucks]: https://mozilla.github.io/nunjucks/
+[web-html-5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+[web-css-3]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[web-markdown]: https://daringfireball.net/projects/markdown/
+[web-jira]: https://www.atlassian.com/software/jira
+[web-figma]: https://www.figma.com/
+[web-arduino]: https://www.arduino.cc/
