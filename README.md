@@ -71,7 +71,7 @@
 [image-apollo-graphql]: https://img.shields.io/badge/apollo%20graphql-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white
 [image-amazon-dynamo-db]: https://img.shields.io/badge/amazon%20dynamo%20db-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white&logoWidth=36
 [image-figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-[image-steam]: https://img.shields.io/badge/steam%20-level%2046-1b2838?style=for-the-badge&logo=steam&logoColor=white&logoWidth=23
+[image-steam]: https://img.shields.io/badge/steam%20-level%2047-1b2838?style=for-the-badge&logo=steam&logoColor=white&logoWidth=23
 [image-discord]: https://img.shields.io/discord/219557939466338304?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=Discord%20chat&labelColor=%235865F2&logoWidth=22
 [image-telegram]: https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=22
 [image-youtube]: https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=22
