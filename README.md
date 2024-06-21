@@ -16,15 +16,6 @@
 [![image-css-3]][web-css-3] [![image-markdown]][web-markdown] [![image-jira]][web-jira] 
 [![image-figma]][web-figma] [![image-arduino]][web-arduino]
 
-<section>
-  <a href="https://github.com/kiidii">
-    <img src="https://myreadme.vercel.app/api/embed/kiidii?panels=userstatistics,commitgraph&height=100" style="height:190px" alt="GitHub stats">
-  </a>
-  <a href="https://leetcode.com/kiidii/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=kiidii" style="height:190px" alt="LeetCode stats">
-  </a>
-</section>
-
 ## You can find me on:
 
 [![image-steam]][web-steam]
