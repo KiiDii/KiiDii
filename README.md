@@ -52,7 +52,7 @@
 [image-socket-io]: https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white
 [image-puppeteer]: https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white&logoWidth=32
 [image-serverless]: https://img.shields.io/badge/serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white&logoWidth=32
-[image-amazon-aws]: https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&logoWidth=36
+[image-amazon-aws]: https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=awslambda&logoColor=white&logoWidth=36
 [image-amazon-rds]: https://img.shields.io/badge/amazon%20rds-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white&logoWidth=36
 [image-handlebars]: https://img.shields.io/badge/handlebars-000000?style=for-the-badge&logo=handlebars.js&logoColor=white&logoWidth=13
 [image-type-script]: https://img.shields.io/badge/typeScript%20-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white
